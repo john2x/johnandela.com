@@ -2,6 +2,14 @@ body {
     background-color: #faf7ed;
 }
 
+a {
+    color: #f88379;
+}
+
+a:hover {
+    color: #faf7ed;
+    background-color: #f88379;
+}
 
 .invite {
     padding-top: 100px;

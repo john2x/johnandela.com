@@ -12,6 +12,16 @@ a:hover {
     background-color: #f88379;
 }
 
+section {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+}
+
+p {
+    text-align: center;
+}
+
 .invite {
     padding-top: 100px;
     margin-bottom: 32px;
